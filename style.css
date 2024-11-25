@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Gabriela);
+
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    color: inherit;
+}
+
+main {
+    padding: 40px;
+    text-align: left
+}
+
+#header {
+    background-color:#F5F5F5;
+    padding-top: 10px;
+    padding-left: 40px;
+    font-size: 150%;
+}
+ 
+body {
+    background-color: #F5F5F5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+h1, h2 {
+    font-family: 'Gabriela', serif;
+    color: #1F3B4D;
+}
+
+h3 , p ,ul{
+    font-family: 'Gabriela', serif;
+    color: #333333;
+}
+
+footer {
+    text-align: center;
+    background-color: #1F3B4D;
+    color: #F5F5F5;
+}
+
+#Coding img {
+    width 300px;
+    height: 100px;
+    float: left;
+}
